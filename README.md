@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tproject outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This project outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -33,7 +33,7 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First we will create a virtual machine in Azure running Windows 10 and remotely connect to it. From there, copy and paste the link to the google drive with all of the prerequisite to get starting operating osTicket. 
+First we will create a virtual machine in Azure running Windows 10 and remotely connect to it. From there, copy and paste the link to the google drive with all of the prerequisites and download them to get started operating osTicket. 
 </p>
 <br />
 
