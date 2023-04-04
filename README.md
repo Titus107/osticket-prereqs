@@ -18,11 +18,14 @@ This tproject outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Heidi SQL
+- MySQL
+- osTicket
+- PHP
+- PHP Manager
+- Rewrite AMD64
+
+https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 
 
 <h2>Installation Steps</h2>
 
