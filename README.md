@@ -30,7 +30,7 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0RdR9BT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 First we will create a virtual machine in Azure running Windows 10 and remotely connect to it. From there, copy and paste the link to the google drive with all of the prerequisites and download them to get started operating osTicket. 
