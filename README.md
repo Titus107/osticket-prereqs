@@ -51,3 +51,11 @@ After having downloaded all of the prerequisites, open the control panel and nav
 Open your PHP Manager download and follow the instructions on the installer. Do the same for the Rewrite Module (rewrite_amd64_en-US.msi). Next, create a directory called "PHP" and unzip the contents of the PHP download into the folder. Following this, install vc_redist and MySQL (with standard configuration when prompted). 
 </p>
 <br />
+<p>
+<img src="https://imgur.com/YdyuHnm" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+Open Internet Information Services (IIS) and double-click on PHP Manager. Select "Register new PHP version" and browse to your PHP directory then select "php.cgi".
+<p>
+</p>
+<p>
