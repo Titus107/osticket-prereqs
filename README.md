@@ -52,7 +52,7 @@ Open your PHP Manager download and follow the instructions on the installer. Do 
 </p>
 <br />
 <p>
-<img src="https://imgur.com/YdyuHnm" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YdyuHnm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 Open Internet Information Services (IIS) and double-click on PHP Manager. Select "Register new PHP version" and browse to your PHP directory then select "php.cgi".
