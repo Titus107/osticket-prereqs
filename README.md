@@ -41,7 +41,7 @@ First we will create a virtual machine in Azure running Windows 10 and remotely 
 <img src="https://i.imgur.com/d3sCjBU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After having downloaded all of the prerequisites, open the control panel and navigate to programs. Under programs click on "turn Windows features on or off". This will bring up a menu; navigate to "Internet Information Services" and enable then click on its drop down menu. Click on "World Wide Web Services", then "Application Development Features" and enable "CGI". This will be necessary for us to enable in order for PHP Manager to run properly, which osTicket runs off of. 
+After having downloaded all of the prerequisites, open the control panel and navigate to programs. Under programs click on "turn Windows features on or off". This will bring up a menu; navigate to "Internet Information Services" and enable it, then click on its drop down menu. Click on "World Wide Web Services", then "Application Development Features" and enable "CGI". This will be necessary for us to enable in order for PHP Manager to run properly, which osTicket runs off of. 
 </p>
 <br />
 
