@@ -74,4 +74,10 @@ You'll notice that some of the recommended list are disabled; go back to the osT
 <img src="https://i.imgur.com/nGxazqD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Navigate in File Explorer to ->wwwroot ->osTicket ->include and find "ost-sampleconfig". Rename this to "ost-config". Open its properties, go to "security" then "advanced" and disable inheritance. Remove all inherited permissions from object. Add a permission and write in "everyone" then click "full control" for permissions. Apply and click ok for all prompts.
+  </p>
+<br />
+<p>
+<img src="https://i.imgur.com/3ZGrUlA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Return to osTicket in the browser and click "continue". Fill out all information fields for "system settings" and "admin user". Now open HeidiSQL which should be downloaded from earlier and install it. This is our database client. Once HeidiSQL is installed click "new" to add a new database and login with the credentials you created earlier from MySQL. If performed correctly, HeidiSQL will appear like image above. 
 <p>
