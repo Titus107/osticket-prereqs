@@ -66,4 +66,12 @@ Open Internet Information Services (IIS) and double-click on PHP Manager. Select
 </p>
 Open the osTicket download and unzip the contents of the "upload" folder into C:/inetpub/wwwroot/. Reload IIS again. 
 Now whilst still in ISS, go to ->sites ->default ->osTicket and browse the 80 folder. We should be taken to the osTicket localhost.
+You'll notice that some of the recommended list are disabled; go back to the osTicket folder in ISS and click on ->PHP Manager ->Enable/Disable Extensions. Enable each extension that osTicket recommends on the list pictured above. 
+<p>
+  </p>
+<br />
+<p>
+<img src="https://i.imgur.com/nGxazqD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Navigate in File Explorer to ->wwwroot ->osTicket ->include and find "ost-sampleconfig". Rename this to "ost-config". Open its properties, go to "security" then "advanced" and disable inheritance. Remove all inherited permissions from object. Add a permission and write in "everyone" then click "full control" for permissions. Apply and click ok for all prompts.
 <p>
