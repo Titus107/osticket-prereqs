@@ -79,5 +79,10 @@ Navigate in File Explorer to ->wwwroot ->osTicket ->include and find "ost-sample
 <p>
 <img src="https://i.imgur.com/3ZGrUlA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Return to osTicket in the browser and click "continue". Fill out all information fields for "system settings" and "admin user". Now open HeidiSQL which should be downloaded from earlier and install it. This is our database client. Once HeidiSQL is installed click "new" to add a new database and login with the credentials you created earlier from MySQL. If performed correctly, HeidiSQL will appear like image above. 
+Return to osTicket in the browser and click "continue". Fill out all information fields for "system settings" and "admin user". Now open HeidiSQL which should be downloaded from earlier and install it. This is our database client. Once HeidiSQL is installed click "new" to add a new session and login with the credentials you created earlier from MySQL. If performed correctly, HeidiSQL will appear like image above. Right-click on "unnamed" and create a new database called "osTicket". 
+Fill out the rest of the information in the osTicket browser and click "install". 
+<p>
+<img src="https://i.imgur.com/r9DPn4S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Congratulations, osTicket is now fully installed and ready to be used and configured. Our last task is to navigate in file explorer back to ->wwwroot ->osTicket and delete the "setup" folder.  
 <p>
