@@ -55,7 +55,15 @@ Open your PHP Manager download and follow the instructions on the installer. Do 
 <img src="https://i.imgur.com/YdyuHnm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-Open Internet Information Services (IIS) and double-click on PHP Manager. Select "Register new PHP version" and browse to your PHP directory then select "php.cgi".
+Open Internet Information Services (IIS) and double-click on PHP Manager. Select "Register new PHP version" and browse to your PHP directory then select "php.cgi". Restart the server. 
 <p>
 </p>
+<p>
+  </p>
+<br />
+<p>
+<img src="https://i.imgur.com/tqMSo6K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Open the osTicket download and unzip the contents of the "upload" folder into C:/inetpub/wwwroot/. Reload IIS again. 
+Now whilst still in ISS, go to ->sites ->default ->osTicket and browse the 80 folder. We should be taken to the osTicket localhost.
 <p>
