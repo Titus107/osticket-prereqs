@@ -84,5 +84,5 @@ Fill out the rest of the information in the osTicket browser and click "install"
 <p>
 <img src="https://i.imgur.com/r9DPn4S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Congratulations, osTicket is now fully installed and ready to be used and configured. Our last task is to navigate in file explorer back to ->wwwroot ->osTicket and delete the "setup" folder.  
+Congratulations, osTicket is now fully installed and ready to be used and configured. Our last two tasks are to navigate in file explorer back to ->wwwroot ->osTicket and delete the "setup" folder. Finally, in the same upload folder go back to ost-config.php right-click and select "properties". Under the security tab edit the "everyone" permissions to be read only.
 <p>
